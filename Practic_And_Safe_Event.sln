@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33927.249
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practic_And_Safe_Event", "Practic_And_Safe_Event\Practic_And_Safe_Event.csproj", "{CD34E1AF-F569-4707-8D3A-05EA1742EEFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD34E1AF-F569-4707-8D3A-05EA1742EEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD34E1AF-F569-4707-8D3A-05EA1742EEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD34E1AF-F569-4707-8D3A-05EA1742EEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD34E1AF-F569-4707-8D3A-05EA1742EEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91779F50-AD21-4153-965B-077055751C6A}
+	EndGlobalSection
+EndGlobal
